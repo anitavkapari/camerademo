@@ -24,4 +24,20 @@
         android:layout_alignParentTop="true"
         android:layout_marginBottom="-13dp"
         android:src="@drawable/ic_launcher_foreground" />
+
+   <!-- <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/btnAdd"
+        android:onClick="btnAddOnClick"
+        android:text="add_image"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/main_list_view"
+        >
+    </ListView>-->
+
 </RelativeLayout>
